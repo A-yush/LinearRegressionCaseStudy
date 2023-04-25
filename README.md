@@ -26,7 +26,7 @@ This project analyzes the data and to create a linear regression model for bikes
 
 ## Technologies Used
 - Pandas library : v1.5.2
-- Numby library : v1.22.3
+- Numpy library : v1.22.3
 - Seaborn library : v0.12.2
 - Statsmodel library: v0.13.5
 
